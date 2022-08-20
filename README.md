@@ -1,4 +1,4 @@
-# JsonPowerDB_project
+# MAKING DATABASE USING JSON POWERDB
 HTML 5/JAVA SCRIPT project with JSONPOWERDB\
 > JSONPOWERDB
 ------------
